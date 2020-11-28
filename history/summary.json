@@ -5,14 +5,46 @@
     "slug": "nonamenix-ru",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1159
+    "time": 943
   },
   {
     "name": "photopuma.ru",
     "url": "https://photopuma.ru",
     "slug": "photopuma-ru",
     "status": "down",
-    "uptime": "0.48%",
-    "time": 494
+    "uptime": "0.16%",
+    "time": 470
+  },
+  {
+    "name": "worldofwarships.ru",
+    "url": "https://worldofwarships.ru",
+    "slug": "worldofwarships-ru",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1475
+  },
+  {
+    "name": "clans.worldofwarships.ru",
+    "url": "https://clans.worldofwarships.ru",
+    "slug": "clans-worldofwarships-ru",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 3257
+  },
+  {
+    "name": "armory.worldofwarships.ru",
+    "url": "https://armory.worldofwarships.ru",
+    "slug": "armory-worldofwarships-ru",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1831
+  },
+  {
+    "name": "dockyard.worldofwarships.ru",
+    "url": "https://dockyard.worldofwarships.ru",
+    "slug": "dockyard-worldofwarships-ru",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1152
   }
 ]
