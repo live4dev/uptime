@@ -8,6 +8,14 @@ sites:
     url: https://nonamenix.ru
   - name: photopuma.ru
     url: https://photopuma.ru
+  - name: worldofwarships.ru
+    url: https://worldofwarships.ru
+  - name: clans.worldofwarships.ru
+    url: https://clans.worldofwarships.ru
+  - name: armory.worldofwarships.ru
+    url: https://armory.worldofwarships.ru
+  - name: dockyard.worldofwarships.ru
+    url: https://dockyard.worldofwarships.ru
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
