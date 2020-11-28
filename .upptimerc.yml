@@ -6,6 +6,10 @@ repo: uptime
 sites:
   - name: nonamenix.ru
     url: https://nonamenix.ru
+  - name: live4.dev
+    url: https://live4.dev
+  - name: cv.live4.dev
+    url: https://cv.live4.dev
   - name: photopuma.ru
     url: https://photopuma.ru
   - name: worldofwarships.ru
@@ -16,6 +20,8 @@ sites:
     url: https://armory.worldofwarships.ru
   - name: dockyard.worldofwarships.ru
     url: https://dockyard.worldofwarships.ru
+  - name: logbook.worldofwarships.ru
+    url: https://logbook.worldofwarships.ru
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
