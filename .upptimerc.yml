@@ -5,7 +5,7 @@ repo: uptime
 # Add your sites here
 sites:
   - name: nonamenix.ru
-    url: https://worldofwarships.ru
+    url: https://nonamenix.ru
   - name: photopuma.ru
     url: https://photopuma.ru
 
