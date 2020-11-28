@@ -1,18 +1,18 @@
 [
   {
     "name": "nonamenix.ru",
-    "url": "https://worldofwarships.ru",
+    "url": "https://nonamenix.ru",
     "slug": "nonamenix-ru",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1608
+    "time": 1159
   },
   {
     "name": "photopuma.ru",
     "url": "https://photopuma.ru",
     "slug": "photopuma-ru",
     "status": "down",
-    "uptime": "7.88%",
-    "time": 486
+    "uptime": "0.48%",
+    "time": 494
   }
 ]
