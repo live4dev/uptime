@@ -43,17 +43,17 @@
     "name": "armory.worldofwarships.ru",
     "url": "https://armory.worldofwarships.ru",
     "slug": "armory-worldofwarships-ru",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 1459
+    "status": "up",
+    "uptime": "97.34%",
+    "time": 1452
   },
   {
     "name": "dockyard.worldofwarships.ru",
     "url": "https://dockyard.worldofwarships.ru",
     "slug": "dockyard-worldofwarships-ru",
-    "status": "down",
-    "uptime": "99.35%",
-    "time": 1148
+    "status": "up",
+    "uptime": "96.71%",
+    "time": 1126
   },
   {
     "name": "logbook.worldofwarships.ru",
