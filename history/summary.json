@@ -5,7 +5,7 @@
     "slug": "nonamenix-ru",
     "status": "up",
     "uptime": "100.00%",
-    "time": 600
+    "time": 577
   },
   {
     "name": "live4.dev",
@@ -13,7 +13,7 @@
     "slug": "live4-dev",
     "status": "up",
     "uptime": "100.00%",
-    "time": 271
+    "time": 260
   },
   {
     "name": "cv.live4.dev",
@@ -21,7 +21,7 @@
     "slug": "cv-live4-dev",
     "status": "up",
     "uptime": "100.00%",
-    "time": 195
+    "time": 200
   },
   {
     "name": "worldofwarships.ru",
@@ -29,31 +29,31 @@
     "slug": "worldofwarships-ru",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1493
+    "time": 1496
   },
   {
     "name": "clans.worldofwarships.ru",
     "url": "https://clans.worldofwarships.ru",
     "slug": "clans-worldofwarships-ru",
     "status": "up",
-    "uptime": "99.53%",
-    "time": 2470
+    "uptime": "99.61%",
+    "time": 2471
   },
   {
     "name": "armory.worldofwarships.ru",
     "url": "https://armory.worldofwarships.ru",
     "slug": "armory-worldofwarships-ru",
     "status": "up",
-    "uptime": "97.38%",
-    "time": 1452
+    "uptime": "97.81%",
+    "time": 1533
   },
   {
     "name": "dockyard.worldofwarships.ru",
     "url": "https://dockyard.worldofwarships.ru",
     "slug": "dockyard-worldofwarships-ru",
     "status": "down",
-    "uptime": "95.72%",
-    "time": 1131
+    "uptime": "79.85%",
+    "time": 1112
   },
   {
     "name": "logbook.worldofwarships.ru",
@@ -61,6 +61,6 @@
     "slug": "logbook-worldofwarships-ru",
     "status": "up",
     "uptime": "100.00%",
-    "time": 952
+    "time": 989
   }
 ]
