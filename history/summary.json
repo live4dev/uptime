@@ -44,7 +44,7 @@
     "url": "https://armory.worldofwarships.ru",
     "slug": "armory-worldofwarships-ru",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.46%",
     "time": 1564
   },
   {
@@ -52,7 +52,7 @@
     "url": "https://dockyard.worldofwarships.ru",
     "slug": "dockyard-worldofwarships-ru",
     "status": "down",
-    "uptime": "20.44%",
+    "uptime": "19.81%",
     "time": 1048
   },
   {
@@ -62,5 +62,125 @@
     "status": "up",
     "uptime": "100.00%",
     "time": 941
+  },
+  {
+    "name": "worldofwarships.com",
+    "url": "https://worldofwarships.com",
+    "slug": "worldofwarships-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 434
+  },
+  {
+    "name": "clans.worldofwarships.com",
+    "url": "https://clans.worldofwarships.com",
+    "slug": "clans-worldofwarships-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 849
+  },
+  {
+    "name": "armory.worldofwarships.com",
+    "url": "https://armory.worldofwarships.com",
+    "slug": "armory-worldofwarships-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 489
+  },
+  {
+    "name": "dockyard.worldofwarships.com",
+    "url": "https://dockyard.worldofwarships.com",
+    "slug": "dockyard-worldofwarships-com",
+    "status": "down",
+    "uptime": "2.13%",
+    "time": 295
+  },
+  {
+    "name": "logbook.worldofwarships.com",
+    "url": "https://logbook.worldofwarships.com",
+    "slug": "logbook-worldofwarships-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 350
+  },
+  {
+    "name": "worldofwarships.eu",
+    "url": "https://worldofwarships.eu",
+    "slug": "worldofwarships-eu",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 657
+  },
+  {
+    "name": "clans.worldofwarships.eu",
+    "url": "https://clans.worldofwarships.eu",
+    "slug": "clans-worldofwarships-eu",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1230
+  },
+  {
+    "name": "armory.worldofwarships.eu",
+    "url": "https://armory.worldofwarships.eu",
+    "slug": "armory-worldofwarships-eu",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 700
+  },
+  {
+    "name": "dockyard.worldofwarships.eu",
+    "url": "https://dockyard.worldofwarships.eu",
+    "slug": "dockyard-worldofwarships-eu",
+    "status": "down",
+    "uptime": "3.36%",
+    "time": 531
+  },
+  {
+    "name": "logbook.worldofwarships.eu",
+    "url": "https://logbook.worldofwarships.eu",
+    "slug": "logbook-worldofwarships-eu",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 452
+  },
+  {
+    "name": "worldofwarships.asia",
+    "url": "https://worldofwarships.asia",
+    "slug": "worldofwarships-asia",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1573
+  },
+  {
+    "name": "clans.worldofwarships.asia",
+    "url": "https://clans.worldofwarships.asia",
+    "slug": "clans-worldofwarships-asia",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2544
+  },
+  {
+    "name": "armory.worldofwarships.asia",
+    "url": "https://armory.worldofwarships.asia",
+    "slug": "armory-worldofwarships-asia",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1579
+  },
+  {
+    "name": "dockyard.worldofwarships.asia",
+    "url": "https://dockyard.worldofwarships.asia",
+    "slug": "dockyard-worldofwarships-asia",
+    "status": "down",
+    "uptime": "14.35%",
+    "time": 1052
+  },
+  {
+    "name": "logbook.worldofwarships.asia",
+    "url": "https://logbook.worldofwarships.asia",
+    "slug": "logbook-worldofwarships-asia",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1027
   }
 ]
