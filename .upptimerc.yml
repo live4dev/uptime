@@ -1,7 +1,9 @@
 # Change these first
 owner: live4dev
 repo: uptime
-
+assignees:
+  - nonamenix
+  
 # Add your sites here
 sites:
   - name: nonamenix.ru
