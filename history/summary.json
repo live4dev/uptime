@@ -118,18 +118,18 @@
     "icon": "https://favicons.githubusercontent.com/dockyard.worldofwarships.ru",
     "slug": "dockyard-worldofwarships-ru",
     "status": "down",
-    "uptime": "17.89%",
+    "uptime": "17.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.89%",
-    "uptimeYear": "17.89%",
+    "uptimeMonth": "17.88%",
+    "uptimeYear": "17.88%",
     "time": 1006,
     "timeDay": 690,
     "timeWeek": 848,
     "timeMonth": 1006,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2020-12-18": 717,
+      "2020-12-18": 735,
       "2020-12-17": 1440,
       "2020-12-16": 1440,
       "2020-12-15": 1440,
@@ -153,19 +153,19 @@
     "url": "https://logbook.worldofwarships.ru",
     "icon": "https://favicons.githubusercontent.com/logbook.worldofwarships.ru",
     "slug": "logbook-worldofwarships-ru",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 889,
-    "timeDay": 587,
-    "timeWeek": 770,
-    "timeMonth": 889,
-    "timeYear": 889,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 917,
+    "timeDay": 1081,
+    "timeWeek": 859,
+    "timeMonth": 917,
+    "timeYear": 917,
     "dailyMinutesDown": {
-      "2020-12-18": 26
+      "2020-12-18": 43
     }
   },
   {
@@ -239,7 +239,7 @@
     "timeMonth": 324,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2020-12-18": 717,
+      "2020-12-18": 735,
       "2020-12-17": 1440,
       "2020-12-16": 634
     }
@@ -268,11 +268,11 @@
     "icon": "https://favicons.githubusercontent.com/worldofwarships.eu",
     "slug": "worldofwarships-eu",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "98.41%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
     "time": 629,
     "timeDay": 609,
     "timeWeek": 629,
@@ -287,19 +287,19 @@
     "url": "https://clans.worldofwarships.eu",
     "icon": "https://favicons.githubusercontent.com/clans.worldofwarships.eu",
     "slug": "clans-worldofwarships-eu",
-    "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.11%",
-    "time": 1200,
-    "timeDay": 1443,
-    "timeWeek": 1200,
-    "timeMonth": 1200,
-    "timeYear": 1200,
+    "status": "up",
+    "uptime": "98.51%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "98.51%",
+    "time": 1219,
+    "timeDay": 1371,
+    "timeWeek": 1219,
+    "timeMonth": 1219,
+    "timeYear": 1219,
     "dailyMinutesDown": {
-      "2020-12-18": 25
+      "2020-12-18": 42
     }
   },
   {
@@ -339,7 +339,7 @@
     "timeMonth": 486,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2020-12-18": 717,
+      "2020-12-18": 735,
       "2020-12-17": 1440,
       "2020-12-16": 633
     }
@@ -349,19 +349,19 @@
     "url": "https://logbook.worldofwarships.eu",
     "icon": "https://favicons.githubusercontent.com/logbook.worldofwarships.eu",
     "slug": "logbook-worldofwarships-eu",
-    "status": "down",
-    "uptime": "99.16%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
-    "time": 453,
-    "timeDay": 450,
-    "timeWeek": 453,
-    "timeMonth": 453,
-    "timeYear": 453,
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
+    "time": 655,
+    "timeDay": 957,
+    "timeWeek": 655,
+    "timeMonth": 655,
+    "timeYear": 655,
     "dailyMinutesDown": {
-      "2020-12-18": 23
+      "2020-12-18": 41
     }
   },
   {
@@ -435,7 +435,7 @@
     "timeMonth": 1014,
     "timeYear": 1014,
     "dailyMinutesDown": {
-      "2020-12-18": 717,
+      "2020-12-18": 735,
       "2020-12-17": 1440,
       "2020-12-16": 633
     }
