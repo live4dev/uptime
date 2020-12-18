@@ -118,18 +118,18 @@
     "icon": "https://favicons.githubusercontent.com/dockyard.worldofwarships.ru",
     "slug": "dockyard-worldofwarships-ru",
     "status": "down",
-    "uptime": "17.90%",
+    "uptime": "17.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.90%",
-    "uptimeYear": "17.90%",
+    "uptimeMonth": "17.89%",
+    "uptimeYear": "17.89%",
     "time": 1006,
     "timeDay": 690,
     "timeWeek": 848,
     "timeMonth": 1006,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2020-12-18": 694,
+      "2020-12-18": 717,
       "2020-12-17": 1440,
       "2020-12-16": 1440,
       "2020-12-15": 1440,
@@ -154,18 +154,18 @@
     "icon": "https://favicons.githubusercontent.com/logbook.worldofwarships.ru",
     "slug": "logbook-worldofwarships-ru",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 889,
     "timeDay": 587,
     "timeWeek": 770,
     "timeMonth": 889,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2020-12-18": 3
+      "2020-12-18": 26
     }
   },
   {
@@ -239,7 +239,7 @@
     "timeMonth": 324,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2020-12-18": 694,
+      "2020-12-18": 717,
       "2020-12-17": 1440,
       "2020-12-16": 634
     }
@@ -267,19 +267,19 @@
     "url": "https://worldofwarships.eu",
     "icon": "https://favicons.githubusercontent.com/worldofwarships.eu",
     "slug": "worldofwarships-eu",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 634,
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
+    "time": 629,
     "timeDay": 609,
-    "timeWeek": 634,
-    "timeMonth": 634,
-    "timeYear": 634,
+    "timeWeek": 629,
+    "timeMonth": 629,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2020-12-18": 2
+      "2020-12-18": 23
     }
   },
   {
@@ -288,18 +288,18 @@
     "icon": "https://favicons.githubusercontent.com/clans.worldofwarships.eu",
     "slug": "clans-worldofwarships-eu",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.11%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
     "time": 1200,
     "timeDay": 1443,
     "timeWeek": 1200,
     "timeMonth": 1200,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2020-12-18": 2
+      "2020-12-18": 25
     }
   },
   {
@@ -307,19 +307,19 @@
     "url": "https://armory.worldofwarships.eu",
     "icon": "https://favicons.githubusercontent.com/armory.worldofwarships.eu",
     "slug": "armory-worldofwarships-eu",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 655,
-    "timeDay": 655,
-    "timeWeek": 655,
-    "timeMonth": 655,
-    "timeYear": 655,
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
+    "time": 1429,
+    "timeDay": 2591,
+    "timeWeek": 1429,
+    "timeMonth": 1429,
+    "timeYear": 1429,
     "dailyMinutesDown": {
-      "2020-12-18": 1
+      "2020-12-18": 22
     }
   },
   {
@@ -339,7 +339,7 @@
     "timeMonth": 486,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2020-12-18": 694,
+      "2020-12-18": 717,
       "2020-12-17": 1440,
       "2020-12-16": 633
     }
@@ -350,18 +350,18 @@
     "icon": "https://favicons.githubusercontent.com/logbook.worldofwarships.eu",
     "slug": "logbook-worldofwarships-eu",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.16%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
     "time": 453,
     "timeDay": 450,
     "timeWeek": 453,
     "timeMonth": 453,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2020-12-18": 0
+      "2020-12-18": 23
     }
   },
   {
@@ -435,7 +435,7 @@
     "timeMonth": 1014,
     "timeYear": 1014,
     "dailyMinutesDown": {
-      "2020-12-18": 694,
+      "2020-12-18": 717,
       "2020-12-17": 1440,
       "2020-12-16": 633
     }
