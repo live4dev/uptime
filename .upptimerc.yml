@@ -24,8 +24,6 @@ sites:
     url: https://armory.worldofwarships.ru
   - name: dockyard.worldofwarships.ru
     url: https://dockyard.worldofwarships.ru
-    expectedStatusCodes:
-      - 403
   - name: logbook.worldofwarships.ru
     url: https://logbook.worldofwarships.ru
   - name: worldofwarships.com
@@ -36,8 +34,6 @@ sites:
     url: https://armory.worldofwarships.com
   - name: dockyard.worldofwarships.com
     url: https://dockyard.worldofwarships.com
-    expectedStatusCodes:
-      - 403
   - name: logbook.worldofwarships.com
     url: https://logbook.worldofwarships.com
   - name: worldofwarships.eu
@@ -48,8 +44,6 @@ sites:
     url: https://armory.worldofwarships.eu
   - name: dockyard.worldofwarships.eu
     url: https://dockyard.worldofwarships.eu
-    expectedStatusCodes:
-      - 403
   - name: logbook.worldofwarships.eu
     url: https://logbook.worldofwarships.eu
   - name: worldofwarships.asia
@@ -60,8 +54,6 @@ sites:
     url: https://armory.worldofwarships.asia
   - name: dockyard.worldofwarships.asia
     url: https://dockyard.worldofwarships.asia
-    expectedStatusCodes:
-      - 403
   - name: logbook.worldofwarships.asia
     url: https://logbook.worldofwarships.asia
   
