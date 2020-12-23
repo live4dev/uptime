@@ -14,6 +14,8 @@ sites:
     url: https://cv.live4.dev
 #  - name: photopuma.ru
 #    url: https://photopuma.ru
+  - name: navyfilms.tv
+    url: https://navyfilms.tv
   - name: worldofwarships.ru
     url: https://worldofwarships.ru
   - name: clans.worldofwarships.ru
