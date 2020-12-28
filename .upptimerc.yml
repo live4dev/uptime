@@ -6,9 +6,6 @@ assignees:
   
 # Add your sites here
 sites:
- 
-#  - name: photopuma.ru
-#    url: https://photopuma.ru
   
   - name: navyfilms.tv
     url: https://navyfilms.tv
@@ -62,9 +59,14 @@ sites:
     url: https://forum.worldofwarships.asia
   - name: logbook.worldofwarships.asia
     url: https://logbook.worldofwarships.asia
+
   # personal
   - name: nonamenix.ru
     url: https://nonamenix.ru
+#  - name: photopuma.ru
+#    url: https://photopuma.ru
+  - name: ritasneki.ru
+    url: https://ritasneki.ru/
   - name: live4.dev
     url: https://live4.dev
   - name: cv.live4.dev
