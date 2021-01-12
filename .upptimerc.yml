@@ -9,6 +9,8 @@ sites:
   
   - name: navyfilms.tv
     url: https://navyfilms.tv
+  - name: proships.ru
+    url: https://proships.ru
   
   - name: worldofwarships.ru
     url: https://worldofwarships.ru
