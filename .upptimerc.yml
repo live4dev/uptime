@@ -83,8 +83,6 @@ sites:
     url: https://live4.dev
   - name: cv.live4.dev
     url: https://cv.live4.dev
-  - names: tools.live4.dev
-    url: https://tools.live4.dev/
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
