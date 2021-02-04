@@ -26,6 +26,8 @@ sites:
     url: https://forum.worldofwarships.ru
   - name: logbook.worldofwarships.ru
     url: https://logbook.worldofwarships.ru
+  - name: friends.worldofwarships.ru
+    url: https://friends.worldofwarships.ru/ru/about
   
   - name: worldofwarships.com
     url: https://worldofwarships.com
@@ -39,6 +41,8 @@ sites:
     url: https://forum.worldofwarships.com
   - name: logbook.worldofwarships.com
     url: https://logbook.worldofwarships.com
+  - name: friends.worldofwarships.com
+    url: https://friends.worldofwarships.com/en/about
   
   - name: worldofwarships.eu
     url: https://worldofwarships.eu
@@ -50,6 +54,8 @@ sites:
     url: https://dockyard.worldofwarships.eu
   - name: logbook.worldofwarships.eu
     url: https://logbook.worldofwarships.eu
+  - name: friends.worldofwarships.eu
+    url: https://friends.worldofwarships.eu/en/about
   
   - name: worldofwarships.asia
     url: https://worldofwarships.asia
@@ -63,6 +69,8 @@ sites:
     url: https://forum.worldofwarships.asia
   - name: logbook.worldofwarships.asia
     url: https://logbook.worldofwarships.asia
+  - name: friends.worldofwarships.asia
+    url: https://friends.worldofwarships.asia/en/about
 
   # personal
   - name: nonamenix.ru
@@ -75,6 +83,8 @@ sites:
     url: https://live4.dev
   - name: cv.live4.dev
     url: https://cv.live4.dev
+  - names: tools.live4.dev
+    url: https://tools.live4.dev/
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
