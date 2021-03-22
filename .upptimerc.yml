@@ -24,6 +24,8 @@ sites:
     url: https://armory.worldofwarships.ru
   - name: dockyard.worldofwarships.ru
     url: https://dockyard.worldofwarships.ru
+    expectedStatusCodes:
+      - 503
   - name: forum.worldofwarships.ru
     url: https://forum.worldofwarships.ru
   - name: logbook.worldofwarships.ru
