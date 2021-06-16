@@ -29,6 +29,10 @@ sites:
     url: https://logbook.worldofwarships.ru
   - name: friends.worldofwarships.ru
     url: https://friends.worldofwarships.ru/ru/about
+  - name: shop.worldofwarships.ru
+    url: https://shop.worldofwarships.ru/
+    headers:
+      - "User-Agent: Safari/537.36 WOWS/1.0"
   
   - name: worldofwarships.com
     url: https://worldofwarships.com
@@ -44,6 +48,10 @@ sites:
     url: https://logbook.worldofwarships.com
   - name: friends.worldofwarships.com
     url: https://friends.worldofwarships.com/en/about
+  - name: shop.worldofwarships.com
+    url: https://shop.worldofwarships.com/
+    headers:
+      - "User-Agent: Safari/537.36 WOWS/1.0"
   
   - name: worldofwarships.eu
     url: https://worldofwarships.eu
@@ -57,6 +65,10 @@ sites:
     url: https://logbook.worldofwarships.eu
   - name: friends.worldofwarships.eu
     url: https://friends.worldofwarships.eu/en/about
+  - name: shop.worldofwarships.eu
+    url: https://shop.worldofwarships.eu/
+    headers:
+      - "User-Agent: Safari/537.36 WOWS/1.0"
   
   - name: worldofwarships.asia
     url: https://worldofwarships.asia
@@ -72,6 +84,10 @@ sites:
     url: https://logbook.worldofwarships.asia
   - name: friends.worldofwarships.asia
     url: https://friends.worldofwarships.asia/en/about
+  - name: shop.worldofwarships.asia
+    url: https://shop.worldofwarships.asia/
+    headers:
+      - "User-Agent: Safari/537.36 WOWS/1.0"
 
   # personal
   - name: nonamenix.ru
